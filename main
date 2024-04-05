@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<frameset rows="10%,18%,*">
+	<frame src="content/frame.html" noresize scrolling="no"/>
+	<frame src="content/frame1.html" noresize scrolling="no"/>
+	<frame src="content/lobby.html" noresize frameborder="0" name="mainf"/>
+</frameset>
+</html>
